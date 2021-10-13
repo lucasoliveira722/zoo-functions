@@ -9,6 +9,4 @@ function getAnimalsOlderThan(animal, age) {
   return arrayFiltered;
 }
 
-console.log(getAnimalsOlderThan('lions', 3));
-
 module.exports = getAnimalsOlderThan;
